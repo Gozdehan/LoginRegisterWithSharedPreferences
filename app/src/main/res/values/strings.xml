@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LoginRegisterWithSharedPreferences</string>
+    <string name="userMail">Mail</string>
+    <string name="userPass">Password</string>
+    <string name="login">Login</string>
+    <string name="goregister">Go To Register</string>
+    <string name="userSurname">Surname</string>
+    <string name="userPhone">Phone</string>
+    <string name="register">regıster</string>
+    <string name="userLogin">USER LOGIN</string>
+    <string name="userRegister">USER REGISTER</string>
+    <string name="userName">Name</string>
+    <string name="exit">EXIT</string>
+</resources>
